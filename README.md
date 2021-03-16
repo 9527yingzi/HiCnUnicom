@@ -36,7 +36,7 @@ APPID(翻到下面有如何得到自己的APPID方法)
 
 
 ### 3. 手动运行一次
-进入到Workflows页面，手动运行一次  
+进入到Workflows页面，手动运行一次   
 
 ![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions3.png)
 
